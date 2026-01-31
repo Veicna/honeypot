@@ -25,6 +25,7 @@ Requirements: Python 3.7+
 
 ```bash
 python honeypot.py
+Note: If you are a Linux user, you should use "python3".
 ```
 
 ### Custom Ports
