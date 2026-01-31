@@ -14,7 +14,7 @@ Multi-protocol honeypot for detecting and logging cyber attacks.
 ```bash
 git clone https://github.com/Veicna/honeypot.git
 cd honeypot
-chmod +x *.py
+chmod +x honeypot.py
 ```
 
 Requirements: Python 3.7+
