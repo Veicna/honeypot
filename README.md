@@ -12,7 +12,7 @@ Multi-protocol honeypot for detecting and logging cyber attacks.
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Veicna/honeypot.git
 cd honeypot
 chmod +x *.py
 ```
