@@ -162,7 +162,7 @@ hp.start()
 
 ## License
 
-Educational use only.
+MIT
 
 ## Disclaimer
 
